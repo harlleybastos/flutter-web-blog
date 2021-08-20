@@ -1,16 +1,58 @@
-# news
+<h1 align="center" style="text-align:center">
+<p style="font-family: Bahnschrift Condensed; font-size:35px;">👀 PREVIEW</p>
+<img src="assets/images/gifWeb.gif"/>
+</h1>
 
-A new Flutter project.
+## 📕 Index
 
-## Getting Started
+- [About](#-about)
 
-This project is a starting point for a Flutter application.
+- [Technologies](#-technologies)
 
-A few resources to get you started if this is your first Flutter project:
+- [How to download the project](#-how-to-download-the-project)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+---
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📜 About
+
+The **Flutter Web Blog** is a **PROJECT** that was developed to explore both Flutter and Flutter integrated into Firebase (Firestore + Google Sign-in).
+
+As shown in the preview above, Upload, Authentication and Login are already functional resources and were well explored.
+In general, after finishing the project, I conclude that it was a great learning experience and a great experience working with this incredible Framework that is Flutter.
+
+---
+
+## 🚀 Technologies
+
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
+- [Firebase](https://firebase.google.com/)
+- [Firestore](https://firebase.google.com/docs/firestore)
+- [Google Sign-in](https://firebase.google.com/docs/auth/web/google-signin)
+
+---
+
+## 📦 How to download the project
+
+```bash
+# Clone the repository
+
+$ git clone https://github.com/harlleybastos/flutter-web-blog.git
+
+# Enter in the repository
+
+$ cd flutter-web-blog
+
+# Install the dependencies
+
+$ flutter pub get
+
+# Start the project
+
+$ flutter run
+
+## And done ! :)
+
+```
+
+Developed by Harlley dos Santos Bastos 😁🚀
